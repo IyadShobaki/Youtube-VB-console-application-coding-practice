@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\source\repos\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\ishobaki0815\source\repos\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\ishobaki0815\source\repos\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\ishobaki0815\source\repos\Strings\Strings\bin\Debug\Strings.xml
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.Resources.resources
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.xml
+C:\Users\ishobaki0815\source\repos\Strings\Strings\obj\Debug\Strings.pdb

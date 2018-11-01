@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Decisions
+</name>
+</assembly>
+<members>
+<member name="T:Decisions.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Decisions.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Decisions.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Decisions.Module1.Main">
+ <summary>
+ In this program I want to demonstarte decisions:
+ (1) Comments
+ (2) If statements, selection statements
+ (3) Demo
+ (4) Nested if statements 
+ (5) Set tasks
+ </summary>
+</member>
+</members>
+</doc>

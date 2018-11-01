@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\ishobaki0815\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\ishobaki0815\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\ishobaki0815\source\repos\Loops\Loops\bin\Debug\Loops.xml
+C:\Users\ishobaki0815\source\repos\Loops\Loops\obj\Debug\Loops.Resources.resources
+C:\Users\ishobaki0815\source\repos\Loops\Loops\obj\Debug\Loops.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\source\repos\Loops\Loops\obj\Debug\Loops.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\ishobaki0815\source\repos\Loops\Loops\obj\Debug\Loops.xml
+C:\Users\ishobaki0815\source\repos\Loops\Loops\obj\Debug\Loops.pdb

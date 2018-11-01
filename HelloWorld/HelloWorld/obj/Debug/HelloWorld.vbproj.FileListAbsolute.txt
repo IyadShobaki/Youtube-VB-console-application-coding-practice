@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\bin\Debug\Lists.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Lists\Lists\obj\Debug\Lists.pdb

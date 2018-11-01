@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\bin\Debug\Decisions.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Decisions\Decisions\obj\Debug\Decisions.vbprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\bin\Debug\Variables.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Variables\Variables\obj\Debug\Variables.pdb

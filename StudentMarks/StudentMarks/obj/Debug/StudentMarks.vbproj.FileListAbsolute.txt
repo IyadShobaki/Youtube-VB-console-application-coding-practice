@@ -1,0 +1,12 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\bin\Debug\StudentMarks.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\StudentMarks\StudentMarks\bin\Debug\Student Marks.accdb

@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\bin\Debug\Coercion.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\bin\Debug\Coercion.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\bin\Debug\Coercion.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\bin\Debug\Coercion.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion\Coercion\obj\Debug\Coercion.pdb

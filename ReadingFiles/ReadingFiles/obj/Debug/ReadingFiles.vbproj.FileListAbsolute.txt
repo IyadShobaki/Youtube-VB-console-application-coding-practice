@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\bin\Debug\ReadingFiles.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\ReadingFiles\ReadingFiles\obj\Debug\ReadingFiles.vbprojAssemblyReference.cache

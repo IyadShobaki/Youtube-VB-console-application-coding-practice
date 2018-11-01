@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\bin\Debug\Parameters1.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\bin\Debug\Parameters1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\bin\Debug\Parameters1.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\bin\Debug\Parameters1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\obj\Debug\Parameters1.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\obj\Debug\Parameters1.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\obj\Debug\Parameters1.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\obj\Debug\Parameters1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\obj\Debug\Parameters1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Parameters1\Parameters1\obj\Debug\Parameters1.pdb

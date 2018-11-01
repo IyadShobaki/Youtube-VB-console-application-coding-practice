@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\bin\Debug\Arrays1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Arrays1\Arrays1\obj\Debug\Arrays1.vbprojAssemblyReference.cache

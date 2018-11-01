@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\bin\Debug\WritingFiles1.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\bin\Debug\WritingFiles1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\bin\Debug\WritingFiles1.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\bin\Debug\WritingFiles1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\obj\Debug\WritingFiles1.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\obj\Debug\WritingFiles1.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\obj\Debug\WritingFiles1.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\obj\Debug\WritingFiles1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\obj\Debug\WritingFiles1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\WritingFiles1\WritingFiles1\obj\Debug\WritingFiles1.pdb

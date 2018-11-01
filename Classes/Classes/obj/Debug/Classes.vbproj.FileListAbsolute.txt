@@ -1,0 +1,11 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\bin\Debug\Classes.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.vbprojAssemblyReference.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Classes\Classes\obj\Debug\Classes.pdb

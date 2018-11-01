@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\bin\Debug\Subs3.exe.config
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\bin\Debug\Subs3.exe
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\bin\Debug\Subs3.pdb
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\bin\Debug\Subs3.xml
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\obj\Debug\Subs3.Resources.resources
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\obj\Debug\Subs3.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\obj\Debug\Subs3.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\obj\Debug\Subs3.exe
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\obj\Debug\Subs3.xml
+C:\Users\ishobaki0815\source\repos\Subs3\Subs3\obj\Debug\Subs3.pdb

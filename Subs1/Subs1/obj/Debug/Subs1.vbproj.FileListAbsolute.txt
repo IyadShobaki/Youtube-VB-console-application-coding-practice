@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\bin\Debug\Subs1.exe.config
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\bin\Debug\Subs1.exe
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\bin\Debug\Subs1.pdb
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\bin\Debug\Subs1.xml
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\obj\Debug\Subs1.Resources.resources
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\obj\Debug\Subs1.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\obj\Debug\Subs1.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\obj\Debug\Subs1.exe
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\obj\Debug\Subs1.xml
+C:\Users\ishobaki0815\source\repos\Subs1\Subs1\obj\Debug\Subs1.pdb

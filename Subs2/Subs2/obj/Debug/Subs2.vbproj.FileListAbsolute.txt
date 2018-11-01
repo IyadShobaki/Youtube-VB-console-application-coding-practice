@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\bin\Debug\Subs2.exe.config
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\bin\Debug\Subs2.exe
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\bin\Debug\Subs2.pdb
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\bin\Debug\Subs2.xml
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\obj\Debug\Subs2.Resources.resources
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\obj\Debug\Subs2.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\obj\Debug\Subs2.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\obj\Debug\Subs2.exe
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\obj\Debug\Subs2.xml
+C:\Users\ishobaki0815\source\repos\Subs2\Subs2\obj\Debug\Subs2.pdb

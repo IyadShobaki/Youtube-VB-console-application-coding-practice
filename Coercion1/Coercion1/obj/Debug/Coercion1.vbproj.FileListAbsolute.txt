@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\bin\Debug\Coercion1.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\bin\Debug\Coercion1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\bin\Debug\Coercion1.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\bin\Debug\Coercion1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\obj\Debug\Coercion1.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\obj\Debug\Coercion1.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\obj\Debug\Coercion1.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\obj\Debug\Coercion1.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\obj\Debug\Coercion1.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\Coercion1\Coercion1\obj\Debug\Coercion1.pdb

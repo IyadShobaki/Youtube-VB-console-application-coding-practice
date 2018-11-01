@@ -1,0 +1,10 @@
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\bin\Debug\ClassesMethods.exe.config
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\bin\Debug\ClassesMethods.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\bin\Debug\ClassesMethods.pdb
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\bin\Debug\ClassesMethods.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\obj\Debug\ClassesMethods.Resources.resources
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\obj\Debug\ClassesMethods.vbproj.GenerateResource.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\obj\Debug\ClassesMethods.vbproj.CoreCompileInputs.cache
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\obj\Debug\ClassesMethods.exe
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\obj\Debug\ClassesMethods.xml
+C:\Users\ishobaki0815\Desktop\vb.projects\ClassesMethods\ClassesMethods\obj\Debug\ClassesMethods.pdb
